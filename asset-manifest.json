@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/freshCart-ReactJS-ECommerce/static/css/main.72977884.css",
-    "main.js": "/freshCart-ReactJS-ECommerce/static/js/main.5326778f.js",
+    "main.js": "/freshCart-ReactJS-ECommerce/static/js/main.a1007ed1.js",
     "static/css/172.31d6cfe0.chunk.css": "/freshCart-ReactJS-ECommerce/static/css/172.31d6cfe0.chunk.css",
     "static/js/172.0fdb2de6.chunk.js": "/freshCart-ReactJS-ECommerce/static/js/172.0fdb2de6.chunk.js",
     "static/js/53.30ca4857.chunk.js": "/freshCart-ReactJS-ECommerce/static/js/53.30ca4857.chunk.js",
@@ -41,7 +41,7 @@
     "static/media/slick.woff": "/freshCart-ReactJS-ECommerce/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/freshCart-ReactJS-ECommerce/index.html",
     "main.72977884.css.map": "/freshCart-ReactJS-ECommerce/static/css/main.72977884.css.map",
-    "main.5326778f.js.map": "/freshCart-ReactJS-ECommerce/static/js/main.5326778f.js.map",
+    "main.a1007ed1.js.map": "/freshCart-ReactJS-ECommerce/static/js/main.a1007ed1.js.map",
     "172.0fdb2de6.chunk.js.map": "/freshCart-ReactJS-ECommerce/static/js/172.0fdb2de6.chunk.js.map",
     "53.30ca4857.chunk.js.map": "/freshCart-ReactJS-ECommerce/static/js/53.30ca4857.chunk.js.map",
     "120.d735f1a2.chunk.js.map": "/freshCart-ReactJS-ECommerce/static/js/120.d735f1a2.chunk.js.map",
@@ -62,6 +62,6 @@
   },
   "entrypoints": [
     "static/css/main.72977884.css",
-    "static/js/main.5326778f.js"
+    "static/js/main.a1007ed1.js"
   ]
 }
