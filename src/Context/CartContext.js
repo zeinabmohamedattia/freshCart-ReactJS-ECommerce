@@ -20,7 +20,7 @@ export default function CartContextProvider(props) {
             .catch((err) => err)
     }
     function checkOutSession(cartId, shippingAddress) {
-        return axios.post(`https://ecommerce.routemisr.com/api/v1/orders/checkout-session/${cartId}?url=https://zeinabmohamedattia.github.io`, {
+        return axios.post(`https://ecommerce.routemisr.com/api/v1/orders/checkout-session/${cartId}?url=https://zeinabmohamedattia.github.io/freshCart-ReactJS-ECommerce/#`, {
             shippingAddress
         }, {
             headers

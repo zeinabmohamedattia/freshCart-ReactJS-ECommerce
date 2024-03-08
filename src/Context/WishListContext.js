@@ -19,7 +19,7 @@ export default function WishListContextProvider(props) {
             .then((response) => response)
             .catch((err) => err)
     }
-    function getwishListItems(productId) {
+    function getwishListItems() {
         return axios.get(`https://ecommerce.routemisr.com/api/v1/wishList`, {
             headers
         })
